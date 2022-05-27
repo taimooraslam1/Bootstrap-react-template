@@ -1,0 +1,18 @@
+.slidersection {
+  font-family: "Lato";
+  margin: 150px 0 300px;
+  overflow: hidden;
+
+  .rotate {
+    -webkit-transform: rotate(-6deg);
+    transform: rotate(-6deg);
+    margin-bottom: 59px;
+    margin-top: 59px;
+  }
+  .item0 {
+    margin-left: -200px;
+  }
+  .item1 {
+    margin-left: -200px;
+  }
+}
